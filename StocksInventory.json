@@ -1,0 +1,19 @@
+{
+  "TypesofStocks": [
+    {
+      "stockName": "Dell",
+      "Numberofstocks": 2,
+      "stockPrice": 12000
+    },
+    {
+      "stockName": "HP",
+      "Numberofstocks": 3,
+      "stockPrice": 10000
+    },
+    {
+      "stockName": "TATA",
+      "Numberofstocks": 2,
+      "stockPrice": 20000
+    }
+  ]
+}
